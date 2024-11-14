@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Menu de délicieuses bouchées</title>
+</head>
+
+<body>
+   <h1>Menu de délicieuses bouchées</h1>
+<section>
+   <h2>Apéritifs</h2>
+    <ul>
+        <li>
+            <strong>Salade Caprese</strong> : Tomates fraîches, mozzarella et basilic arrosés d'un glaçage balsamique.
+        </li>
+        <li>
+            <strong>Bruschetta</strong> : Pain grillé garni de tomates hachées, ail et basilic frais.
+        </li>
+        <li>
+            <strong>Gougères</strong> : Petits choux au fromage servis chauds.
+        </li>
+        <li>
+         <strong>fataya</strong> : pastel à sauce de poisson garni de sauce de tomate mélangé au piment
+        </li>
+        <li>
+         <strong>confiture de mangue</strong> : confiture à base de mangue un peut cuit avec de la sauce de piment
+        </li>
+     </ul>
+</section>
+   
+    <!--bon appétit-->
+<section>
+    <h2>Plats principaux</h2>
+    <ul>
+        <li>
+            <strong>Saumon grillé</strong> : Filet de saumon assaisonné et grillé à la perfection, servi avec une sauce au beurre citronné.
+        </li>
+        <li>
+            <strong>Poulet au citron</strong> : Blanc de poulet mariné, rôti et servi avec des légumes de saison.
+        </li>
+        <li>
+            <strong>Pâtes Primavera</strong> : Pâtes fraîches avec des légumes de saison et une sauce légère à l'ail.
+        </li>
+        <li><strong>yassa guinar</strong> : du riz bien cuit avec de la sauce d'oignon blanc et du poulet grillé </li>
+        
+        </li>
+        <li>
+         <strong>thiébou dieune</strong> : du riz au poisson bien cuit avec des légumes
+        </li>
+        
+     </ul>
+</section>
+  
+    <!--bon appétit-->
+<section>
+    <h2>Desserts</h2>
+    <ul>
+        <li>
+            <strong>Fondue au chocolat</strong> : Assortiment de fruits et de guimauves servis avec une riche fondue au chocolat.
+        </li>
+        <li>
+            <strong>Tarte Tatin</strong> : Tarte aux pommes caramélisées servie tiède avec de la crème fraîche.
+        </li>
+        <li>
+            <strong>Mousse au chocolat</strong> : Mousse légère et aérienne au chocolat noir, garnie de crème fouettée.
+        </li>
+        <li>
+         <strong>wassalite</strong> : thé trés léger faite à base du basilic
+        </li>
+        <li>
+         <strong>salade de fruits</strong> : jus un peut concentré à bsae de fruits differents
+     </li>
+    </ul>
+</section>
+  
+   <!--bon appétit-->
+
+   <p><a href="contact.html">Contactez-nous pour les réservations</a></p>
+   <footer>
+    <p>sénégal</p>  <p><a href="">confidentialité</a> <a href="">condition</a>  <a href="">paramétre</a> </p>
+   </footer>
+</body>
+
+</html>
